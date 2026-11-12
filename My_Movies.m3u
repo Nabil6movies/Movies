@@ -2,3 +2,5 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTINF:-1 tvg-name=“The Witches (1990)” tvg-type=“movies” group-title=“Movies”,The Witches (1990)
 https://archive.org/download/the.-witches.-1990.1080p.-blu-ray.x-264/The.Witches.1990.1080p.BluRay.x264.mp4
+#EXTINF:-1 tvg-name="Tanhaji" group-title="Movies",Tanhaji (2020)
+https://edge.cinecat.eu/hls/1d5960a5a69cf6089a3d6c9437349f15/master.m3u8
